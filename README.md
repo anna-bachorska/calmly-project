@@ -79,3 +79,7 @@ npm run dev
   - https://api.thecatapi.com/v1/images/search?limit=1 - Cat pictures
   - https://api.thedogapi.com/v1/images/search?limit=1 - Dog pictures
   - https://randomfox.ca/floof - Fox pictures
+
+### Desktop overview layout
+
+![Calmly](https://github.com/anna-bachorska/calmly-project/assets/125367541/202bd0d8-3ed8-45c7-b8cd-ad78b3de6637)
