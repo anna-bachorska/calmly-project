@@ -81,9 +81,9 @@ npm run dev
   - https://randomfox.ca/floof - Fox pictures
 
 ### Desktop overview layout
+
 ![Calmly_1](https://github.com/anna-bachorska/calmly-project/assets/125367541/23dc1a63-a3a3-4533-8a0d-bafc1e9fcd34)
 ![Calmly_2](https://github.com/anna-bachorska/calmly-project/assets/125367541/1c75dfc9-aca3-4c47-8196-6f383c50492a)
 ![Calmly_3](https://github.com/anna-bachorska/calmly-project/assets/125367541/fcdbd87c-e834-4a83-8fad-915a2982a0e9)
 ![Calmly_4](https://github.com/anna-bachorska/calmly-project/assets/125367541/cb289269-38bd-49b8-9f15-1e5eaa92677c)
 ![Calmly_5](https://github.com/anna-bachorska/calmly-project/assets/125367541/33f2e911-aa36-4de9-9fcd-2bb0c57e3e8f)
-
